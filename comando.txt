@@ -1,0 +1,3 @@
+npm i --save styled-components react-router-dom
+
+npx eslint --fix .
