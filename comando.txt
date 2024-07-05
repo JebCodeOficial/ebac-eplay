@@ -1,3 +1,7 @@
 npm i --save styled-components react-router-dom
 
 npx eslint --fix .
+
+npm install --save @reduxjs/toolkit react-redux
+npm install --save react-router-hash-link
+npm install --save-dev @types/react-router-hash-link
